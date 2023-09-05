@@ -1,0 +1,12 @@
+{
+  "usuarios": [
+    {
+      "nome": "Gustavo",
+      "sobrenome": "Bratti",
+      "email": "gustabratti1@gmail.com",
+      "profissao": "Estagiario",
+      "idade": 18,
+      "id": 1
+    }
+  ]
+}

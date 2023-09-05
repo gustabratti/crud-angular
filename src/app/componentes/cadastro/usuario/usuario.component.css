@@ -1,0 +1,36 @@
+.flex {
+  display: flex;
+  padding: 5px;
+  justify-content: space-between;
+}
+
+.botao-editar {
+  margin-right: 20px;
+}
+
+.usuario {
+  border: #154580 solid;
+  border-radius: 15px;
+  margin-bottom: 20px;
+  align-items: center;
+}
+
+.botao {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  font-family: 'Inter', sans-serif;
+  font-size: 16px;
+  cursor: pointer;
+  margin: 0 10px;
+}
+
+.botao-excluir {
+  background-color: #ca0101;
+  color:#ffffff;
+}
+
+.botao-editar {
+  background-color: #218490;
+  color:#ffffff;
+}

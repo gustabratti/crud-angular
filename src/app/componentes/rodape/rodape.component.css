@@ -1,0 +1,15 @@
+.fixarRodape {
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    text-align: center;
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 0;
+  }
+  
+.fixarRodape small {
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+}
+  
